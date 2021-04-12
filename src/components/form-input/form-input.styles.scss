@@ -45,7 +45,7 @@ $main-color: black;
     pointer-events: none;
     left: 5px;
     top: 10px;
-    transition: 200ms ease all;
+    transition: 300ms ease all;
 
     &.shrink {
       @include shrinkLabel();
